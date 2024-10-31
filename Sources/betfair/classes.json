@@ -1,0 +1,32 @@
+{
+  "betfair": {
+    "cookies": ["ID", "onetrust-reject-all-handler"],
+    "selected_option": ["label", "selected-option"],
+    "pages": ["li", "coupon-page-navigation__bullet"],
+    "box_competitions": ["section", "coupon-card"],
+    "competition_name": ["span", "card-header-title"],
+    "boxes": ["tr", {"ng-repeat-start": "(marketId, event) in vm.tableData.events", "ng-if": "event.isReady && event.isVisible"}],
+    "box_odds_back": ["button", "_5iIjZ back FfpPi"],
+    "box_odds_lay": ["button", "_5iIjZ lay _4kgZU"],
+    "suspended_odds": ["span", "state-label"],
+    "finished_games": ["div", "cell finished"],
+    "label_not_started_yet": ["span", "label"],
+    "team_name": ["li", "name"],
+    "game_time": ["div", "middle-label"],
+    "start_date": ["div", "start-date-wrapper"],
+    "goal_home": ["span", "home"],
+    "goal_away": ["span", "away"],
+    "matched_amount": ["li","matched-amount-value"],
+    "odds_box": ["label", "Zs3u5 AUP11 Qe-26"],
+    "amount_back": ["label", "He6+y Qe-26"],
+    "odds_lay_value": ["label","Zs3u5 AUP11 Qe-26"],
+    "amount_lay": ["label", "He6+y Qe-26"],
+    "box_order_page": ["XPATH", "//bf-select//label[@class='selected-option']"],
+    "order_by_amount": ["XPATH", ",//span[@class='option-list-item' and text()='Montante Correspondido']"],
+    "order_by_date": ["XPATH","//bf-option[@value='time']//span[@class='option-list-item']"],
+    "order_by_competition": ["XPATH", "//bf-option[@value='competition']//span[@class='option-list-item']"],
+    "next_button": ["XPATH", "//label[@class='coupon-page-navigation__label coupon-page-navigation__label--next']"],
+    "start_button": ["XPATH", "//li[@class='coupon-page-navigation__item']/a[@class='coupon-page-navigation__link coupon-page-navigation__link--first']"],
+    "no_odds": ["span", "state-label"]
+  }
+}

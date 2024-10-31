@@ -1,0 +1,19 @@
+{
+  "bet365":
+  {
+    "sport": "ovm-ClassificationHeader_Text",
+    "loading_symbol": "bl-Preloader_Spinner",
+    "box_teams": "ovm-FixtureDetailsTwoWay_TeamsWrapper",
+    "team_name": "ovm-FixtureDetailsTwoWay_TeamName",
+    "competition_box": "ovm-Competition ovm-Competition-open",
+    "competition_name": "ovm-CompetitionHeader_NameText",
+    "boxes": "ovm-Fixture_Container",
+    "game_time": "ovm-FixtureDetailsTwoWay_Timer ovm-InPlayTimer",
+    "goal_home": "ovm-StandardScoresSoccer_TeamOne",
+    "goal_away": "ovm-StandardScoresSoccer_TeamTwo",
+    "alternative_odds": "ovm-AlternativeMarketHeader",
+    "suspended_odds": "ovm-HorizontalMarket_Participant ovm-ParticipantOddsOnly gl-Participant_General ovm-ParticipantOddsOnly_Suspended",
+    "odds_box": "ovm-ParticipantOddsOnly_Odds",
+    "draw_symbol": "ovm-CompetitionHeader_Market"
+  }
+}

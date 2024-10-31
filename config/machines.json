@@ -1,0 +1,61 @@
+{
+  "machines":
+  {
+
+    "patrick":
+    {
+      "sec_sleep_open_browser": 2,
+      "sec_sleep_load_page": 4,
+      "sec_sleep_next_page": 1,
+      "sec_sleep_load_elements": 2,
+      "min_update_page_freq": 120,
+      "n_clicks_open_browser": 1,
+      "n_clicks_elements": 2,
+      "sec_sleep_click": 0.5,
+      "before_click_cookies": 1,
+      "after_click_cookies": 1
+    },
+
+    "gloria":
+    {
+      "sec_sleep_open_browser": 2,
+      "sec_sleep_load_page": 2,
+      "sec_sleep_next_page": 1,
+      "sec_sleep_load_elements": 1,
+      "min_update_page_freq": 120,
+      "n_clicks_open_browser": 2,
+      "n_clicks_elements": 2,
+      "sec_sleep_click": 0.5,
+      "before_click_cookies": 1,
+      "after_click_cookies": 1
+    },
+
+    "ester":
+    {
+      "sec_sleep_open_browser": 4,
+      "sec_sleep_load_page": 4,
+      "sec_sleep_next_page": 2,
+      "sec_sleep_load_elements": 2,
+      "min_update_page_freq": 120,
+      "n_clicks_open_browser": 2,
+      "n_clicks_elements": 2,
+      "sec_sleep_click": 0.5,
+      "before_click_cookies": 1,
+      "after_click_cookies": 1
+    },
+
+      "bento":
+    {
+      "sec_sleep_open_browser": 2,
+      "sec_sleep_load_page": 2,
+      "sec_sleep_next_page": 1,
+      "sec_sleep_load_elements": 1,
+      "min_update_page_freq": 120,
+      "n_clicks_open_browser": 2,
+      "n_clicks_elements": 2,
+      "sec_sleep_click": 0.5,
+      "before_click_cookies": 1,
+      "after_click_cookies": 1
+    }
+  }
+}

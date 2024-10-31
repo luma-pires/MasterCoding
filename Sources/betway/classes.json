@@ -1,0 +1,21 @@
+{
+  "betway":
+  {
+    "cookies": ["CLASS_NAME", "cookiePolicyAcceptButton"],
+    "boxes": ["div", "oneLineEventItem"],
+    "box_teams": ["span", "scoreboardInfoNamesWrapper"],
+    "team_name": ["span" ,"teamNameEllipsisContainer"],
+    "goal_home": ["span", "homeTeamScore scoreValue"],
+    "goal_away": ["span", "awayTeamScore scoreValue"],
+    "odds_box": ["div", "odds"],
+    "box_competitions": ["div", "collapsablePanel"],
+    "competition_name": ["div", "titleTextWrapper"],
+    "label_not_started_yet": ["div", "periodComment"],
+    "game_time": ["div","infoTextContainer infoText"],
+    "finished_games": ["div", "moreBetsButton moreBets"],
+    "element_used_to_check_if_content_is_hidden": ["CSS_SELECTOR", ".arrowIcon.icon-arrow-right"],
+    "alternative_odds": ["div", "moreBetsButton moreBets"],
+    "suspended_odds": ["div", "suspended"],
+    "downtime": ["XPATH", "//span[text()='OK']"]
+  }
+}

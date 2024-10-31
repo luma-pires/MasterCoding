@@ -1,0 +1,11 @@
+{
+  "general":
+  { "workers" : ["odds", "games" ,"scores"],
+    "source": "betway",
+    "sport": "futebol",
+    "currency": "real",
+    "browser": "chrome",
+    "n_trials_before_closing_page": 3,
+    "sec_frequency_collection": 60
+  }
+}
